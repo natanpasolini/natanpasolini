@@ -24,7 +24,7 @@ Me chamo Natan Pasolini Oliveira Bezerra, tenho 20 anos e atualmente estou cursa
 <p align="left">
     <a href="https://github.com/natanpasolini">
         <img alt="GitHub" title="Meu GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://github.com/natanpasolini?tab=followers">
+    <a href="https://www.linkedin.com/in/natan-pasolini-bb59102a8/">
         <img alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1155ba?style=for-the-badge&logo=in&logoColor=white"/></a>
 </p>
 
