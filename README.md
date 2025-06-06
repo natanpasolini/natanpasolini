@@ -1,7 +1,5 @@
 # 🐕 Natan Pasolini
 
-**`Bem-vindo(a) ao meu GitHub!`**
-
 <!-- Feito usando: https://readme-typing-svg.demolab.com -->
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CF24&center=true&vCenter=true&width=435&height=30&lines=Eu+sou+o+Natan!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
