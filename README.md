@@ -7,8 +7,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CF24&center=true&vCenter=true&width=435&height=30&lines=Eu+sou+o+Natan!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
 </p>
 
-Me chamo Natan Pasolini Oliveira Bezerra, tenho 20 anos e atualmente estou cursando Ciência da Computação pela UVV. Conclui o ensino médio pelo SESI.
-
 <p align="center">
       <a href="https://github.com/natanpasolini?tab=followers">
          <img alt="seguidores" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/natanpasolini?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/></a>
@@ -46,7 +44,7 @@ Me chamo Natan Pasolini Oliveira Bezerra, tenho 20 anos e atualmente estou cursa
         alt="Stats github"
         height="150"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=natanpasolini&show_icons=true&theme=chartreuse-dark&locale=pt-br"    
+        src="https://github-readme-stats.vercel.app/api?username=natanpasolini&show_icons=true&theme=darkhub&locale=pt-br"    
     />
     <img
         align="left"
