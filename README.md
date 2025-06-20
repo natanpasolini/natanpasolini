@@ -1,17 +1,4 @@
 # 🐕 Natan Pasolini
-
-<!-- Feito usando: https://readme-typing-svg.demolab.com -->
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00CF24&center=true&vCenter=true&width=435&height=30&lines=Eu+sou+o+Natan!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" /></a>
-</p>
-
-<!-- Feito usando https://shields.io/ e https://github.com/DenverCoder1/custom-icon-badges -->
-<p align="center">
-    <a href="https://github.com/natanpasolini">
-        <img alt="GitHub" title="Meu GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/natan-pasolini">
-        <img alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1155ba?style=for-the-badge&logo=in&logoColor=white"/></a>
-   </p>
    
 ```python
 user_access = False
