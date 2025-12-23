@@ -3,8 +3,8 @@
 ```python
 name = 'Natan Pasolini'
 age = '21'
-tech = 'Git, Python, Javascript, HTML/CSS'
-bachelors = 'Computer Science'
+skills = 'Git, Python, Javascript, HTML/CSS, Localization (EN <> PTBR)'
+bachelors = 'Computer Science' #3/8
 quote = 'The only thing that comes to a sleeping man is dreams.'
 ```
 ---
