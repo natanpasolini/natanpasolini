@@ -3,24 +3,14 @@
 ```python
 name = 'Natan Pasolini'
 age = '21'
-skills = 'Git, Python, Javascript, HTML/CSS, Localization (EN <> PTBR)'
-bachelors = 'Computer Science' #3/8
+skills = 'Git, Python, Javascript, HTML/CSS'
+bachelors = 'Computer Science'
 quote = 'The only thing that comes to a sleeping man is dreams.'
 ```
 ---
-
 <div align="center">
-    <img
-        alt="Stats github"
-        width="60%"
-        src="https://github-readme-stats.vercel.app/api?username=natanpasolini&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"    
-    />
-    <img
-        alt="Stats github"
-        width="38.25%"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=natanpasolini&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"    
-    />
+   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=natanpasolini&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&locale=pt-br" />
+   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=natanpasolini&layout=donut&langs_count=8&card_width=320&hide_border=true&theme=transparent&locale=pt-br" />
 </div>
-
 
 
